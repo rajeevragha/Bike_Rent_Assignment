@@ -49,7 +49,7 @@ Season (summer,winter)
 
 
 ## Contact
-Created by @rajeevragha - feel free to contact me!
+Created by [@rajeevragha] - feel free to contact me!
 
 
 <!-- Optional -->
