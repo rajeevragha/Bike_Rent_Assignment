@@ -19,6 +19,16 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 - Dataset: Bike Sharing details in different weather situtations, days, tempurature, Humidity, Windspeed, Casual or Registered users, year,seasons.   
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Technologies Used
+- Numpy
+- Pandas
+- Sklearn
+- StatsModels
+- Matplotlib
+- Seaborn
+ <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Company should promote new offers to raise the demand during Light_snowrain,Spring,Holiday and windspeed when it comes to normal stage Variables that Predict the demand:
@@ -35,18 +45,6 @@ Season (summer,winter)
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Numpy
-- Pandas
-- Sklearn
-- StatsModels
-- Matplotlib
-- Seaborn
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 
 ## Contact
 Created by [@rajeevragha] - feel free to contact me!
